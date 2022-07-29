@@ -19,7 +19,7 @@ a {
 }
 
 a:hover {
-  color: #ffc85a;
+  color: #f1e96d;
   text-decoration: none;
 }
 
@@ -318,7 +318,7 @@ h6 {
   height: 100vh;
   background: url("../img/hero-bg.jpg") top right;
   background-size: cover;
-  position: relative;
+  position: sticky;
 }
 
 #hero:before {
